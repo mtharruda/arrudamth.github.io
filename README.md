@@ -11,7 +11,7 @@
 **🖥️ Experiência**
 <br>
 - Analista de dados @ g1 | nov.2024<br>
-- Editor WEB @ g1 | set.2022 - nov.2024<br>
+- Editor WEB @ g1  set.2022 - nov.2024<br>
 - Produtor @ TV TEM, Globo | jan.2020 - jun.2022<br> 
 
 **📈 Habilidades e Ferramentas**
