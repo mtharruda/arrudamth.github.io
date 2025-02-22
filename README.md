@@ -18,10 +18,20 @@
 - Análise exploratória de dados: Python (Pandas | Polars), SQL <br>
 - Visualização de Dados: (Matplotlib, Seaborn, Flourish, Google Looker Studio, MS Power BI) <br>
 
-**O que fiz e como fiz** 
-<br>
-[Mais de 40 pessoas são procuradas pela Justiça há pelos menos dez anos na região de Sorocaba, indicam dados do CNJ
-]([url](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/12/09/mais-de-40-pessoas-sao-procuradas-pela-justica-ha-pelos-menos-dez-anos-na-regiao-de-sorocaba-indicam-dados-do-cnj.ghtml))
-<br>
-*Reportagem publicada no **g1**, em dezembro de 2024.*
+## O que fiz e como fiz
+### [Desaparecido político mais jovem do país e estudante torturado até a morte: mapa conta história de sorocabanos vítimas da ditadura](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2025/01/27/desaparecido-politico-mais-jovem-do-pais-e-estudante-torturado-ate-a-morte-mapa-conta-historia-de-sorocabanos-vitimas-da-ditadura.ghtml)
+*Reportagem publicada no **g1**, em janeiro de 2025* <br>
+Com base no Relatório Final da Comissão da Verdade, automatizei via **Google Gemini** a extração do local de nascimento e local de morte para a produção do mapa. A visualização, por sua vez, foi finalizada no Flourish. 
+### [Mais de 40 pessoas são procuradas pela Justiça há pelos menos dez anos na região de Sorocaba, indicam dados do CNJ](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/12/09/mais-de-40-pessoas-sao-procuradas-pela-justica-ha-pelos-menos-dez-anos-na-regiao-de-sorocaba-indicam-dados-do-cnj.ghtml)
+*Reportagem publicada no **g1**, em dezembro de 2024.* <br>
 Automatização via Python, utilizando o Selenium, de buscas no sistema do Conselho Nacional de Justiça por nome. Para análise, biblioteca Pandas, e gráficos produzidos no Flourish. [Código]([url](https://github.com/mtharruda/bnmp-scraper)) disponibilizado após publicação. 
+
+## Onde me encontrar?
+[E-mail](arrudamthh@gmail.com)<br>
+[Linkedin](https://www.linkedin.com/in/matharruda/)<br>
+[Instagram](https://www.instagram.com/arrudamth/)<br>
+[Twitter](https://x.com/arrudamth)<br>
+
+Podemos transformar dados em histórias incríveis e impactantes! 
+
+*“I dream. Sometimes I think that's the only right thing to do.” ― MURAKAMI, Haruki* 
