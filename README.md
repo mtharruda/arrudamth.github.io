@@ -15,7 +15,7 @@
 - Produtor @ TV TEM, Globo (jan.2020 - jun.2022)<br> 
 
 **📈 Habilidades e Ferramentas**
-- Análise exploratória de dados: Python (Pandas | Polars), SQL <br>
+- Análise exploratória de dados: Python (Pandas, Polars), SQL <br>
 - Visualização de Dados: (Matplotlib, Seaborn, Flourish, Google Looker Studio, MS Power BI) <br>
 
 ## O que fiz e como fiz
