@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desaparecido político mais jovem do país e estudante torturado até a morte
-lead: Reportagem publicada no g1, em janeiro de 2025
+lead: Python, Google Gemini, Flourish 
 ---
 Com base no Relatório Final da Comissão da Verdade, automatizei via `Google Gemini` a extração do local de nascimento e local de morte para a produção do mapa. A visualização, por sua vez, foi finalizada no `Flourish`. [Leia aqui.](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2025/01/27/desaparecido-politico-mais-jovem-do-pais-e-estudante-torturado-ate-a-morte-mapa-conta-historia-de-sorocabanos-vitimas-da-ditadura.ghtml) <br>
 
