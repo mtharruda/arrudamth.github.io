@@ -2,22 +2,21 @@
 layout: home
 title: Home
 ---
+👋 Olá! Me chamo Matheus, sou jornalista e analista de inteligência WEB no **g1**, o portal de notícias da Globo. Tenho experiência em análise exploratória, visualização e jornalismo de dados. **Meu objetivo é ajudar organizações e o público a compreender o mundo através dos números.**
 
-# About
+**📚 Educação**
+<br>
+- Pós-graduado em Jornalismo de Dados @ PUC Minas <br>
+- Bacharelado em Comunicação Social com habilitação em Jornalismo @ Esamc Sorocaba <br>
 
-👋 Olá! Me chamo Matheus, sou jornalista e analista de inteligência WEB no g1, o portal de notícias da Globo. Tenho experiência em análise exploratória, visualização e jornalismo de dados. Meu objetivo é ajudar organizações e o público a compreender o mundo através dos números.
+**🖥️ Experiência**
+<br>
+- Analista de dados @ g1 (nov.2024)<br>
+- Editor WEB @ g1 (set.2022 - nov.2024)<br>
+- Produtor @ TV TEM, Globo (jan.2020 - jun.2022)<br> 
 
-📚 Educação
-Pós-graduado em Jornalismo de Dados @ PUC Minas
-Bacharelado em Comunicação Social com habilitação em Jornalismo @ Esamc Sorocaba
-
-🖥️ Experiência
-Analista de dados @ g1 (nov.2024)
-Editor WEB @ g1 (set.2022 - nov.2024)
-Produtor @ TV TEM, Globo (jan.2020 - jun.2022)
-
-📈 Habilidades e Ferramentas
-Análise exploratória de dados: Python (Pandas, Polars), SQL
-Visualização de Dados: (Matplotlib, Seaborn, Flourish, Google Looker Studio, MS Power BI)
+**📈 Habilidades e Ferramentas**
+- Análise exploratória de dados: Python (Pandas, Polars), SQL <br>
+- Visualização de Dados: (Matplotlib, Seaborn, Flourish, Google Looker Studio, MS Power BI) <br>
 
 {% include archive.html %}
