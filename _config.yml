@@ -3,7 +3,7 @@ description: Teste
 baseurl: "https://mtharruda.github.io/arrudamth.github.io/"
 url: https://mtharruda.github.io/arrudamth.github.io/
 
-theme: cvless
+remote_theme: piazzai/cvless  # Replace with the actual owner and repo name of the theme
 
 # site settings
 taglong: Jekyll theme for a beautiful online CV
