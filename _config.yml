@@ -1,6 +1,6 @@
 title: Teste
 description: Teste
-baseurl: ""
+baseurl: "https://mtharruda.github.io/arrudamth.github.io/"
 url: https://mtharruda.github.io/arrudamth.github.io/
 
 theme: cvless
@@ -34,7 +34,6 @@ profile:
 permalink: pretty
 exclude:
   - LICENSE
-  - README.md
   - Gemfile
   - vendor/
   - docker-compose.yml
