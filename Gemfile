@@ -1,3 +1,4 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem 'cvless', '~> 2.4'
+source "https://rubygems.org"
+gemspec
