@@ -4,7 +4,7 @@ title: Home
 ---
 # 👨‍💻 Matheus Arruda 
 ### Jornalista e analista de dados 
-👋 Olá! Me chamo Matheus, sou jornalista e analista de inteligência WEB no **g1**, o portal de notícias da Globo. Tenho experiência em análise exploratória, visualização e jornalismo de dados. **Meu objetivo é ajudar organizações e o público a compreender o mundo através dos números.**
+👋 Olá! Me chamo Matheus, sou jornalista e analista de dados. Atualmente atuo diretamente na seção de inteligência WEB do **g1**, o portal de notícias da Globo. Tenho experiência em análise exploratória, visualização e jornalismo de dados. **Meu objetivo é ajudar organizações e o público a compreender o mundo através dos números.**
 
 **📚 Educação**
 <br>
