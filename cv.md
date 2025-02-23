@@ -3,9 +3,6 @@ layout: cv
 title: CV
 ---
 # Matheus Arruda
-{% include contact.html %}
-
-## Perfil
 Pós-graduando em Jornalismo de Dados pela PUC Minas e jornalista pela Escola Superior de Administração, Marketing e Comunicação (Esamc) de Sorocaba.
 
 ## Experiência
