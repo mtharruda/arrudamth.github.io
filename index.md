@@ -22,8 +22,5 @@ title: Home
 - Visualização de Dados: (Matplotlib, Seaborn, Flourish, Google Looker Studio, MS Power BI) <br>
 
 ## O que fiz e como fiz
-### [Mais de 40 pessoas são procuradas pela Justiça há pelos menos dez anos na região de Sorocaba, indicam dados do CNJ](https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/12/09/mais-de-40-pessoas-sao-procuradas-pela-justica-ha-pelos-menos-dez-anos-na-regiao-de-sorocaba-indicam-dados-do-cnj.ghtml)
-*Reportagem publicada no **g1**, em dezembro de 2024.* <br>
-Automatização via Python, utilizando o Selenium, de buscas no sistema do Conselho Nacional de Justiça por nome. Para análise, biblioteca Pandas, e gráficos produzidos no Flourish. [Código]([url](https://github.com/mtharruda/bnmp-scraper)) disponibilizado após publicação. 
 
 {% include archive.html %}
