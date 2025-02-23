@@ -14,15 +14,15 @@ author:
   name: Matheus Arruda
   email: arrudmathh@gmail.com
 photo: assets/files/photo.jpg
-# address: Foobar Hall 1.23
-# phone: +1 234 567 890
+ address: Sorocaba, SP, BR
+ phone: +55 (15) 99824-6352
 
 # profile links
 profile:
 #  facebook: https://www.facebook.com/username
   github: https://github.com/mtharruda
   linkedin: https://www.linkedin.com/in/matharruda/
-  x: https://x.com/arrudamth
+#  x: https://x.com/arrudamth
 #  mastodon: https://mastodon.social/@username
 #  bluesky: https://bsky.app/profile/username.bsky.social
   instagram: https://www.instagram.com/arrudamth/
