@@ -21,6 +21,5 @@ title: Home
 - Análise exploratória de dados: Python (Pandas, Polars), SQL <br>
 - Visualização de Dados: (Matplotlib, Seaborn, Flourish, Google Looker Studio, MS Power BI) <br>
 
-**O que fiz e como fiz**
-
+# O que fiz e como fiz
 {% include archive.html %}
