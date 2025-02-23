@@ -1,4 +1,4 @@
-title: Matheus Arruda - portrólio
+title: Matheus Arruda 
 description: Portfólio de análise exploratória e visualização de dados
 baseurl: "https://mtharruda.github.io/arrudamth.github.io/"
 url: https://mtharruda.github.io/arrudamth.github.io/
@@ -6,30 +6,30 @@ url: https://mtharruda.github.io/arrudamth.github.io/
 remote_theme: piazzai/cvless  # Replace with the actual owner and repo name of the theme
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Portfólio de análise exploratória e visualização de dados
+tagshort: 
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Matheus Arruda
+  email: arrudmathh@gmail.com
 photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+# address: Foobar Hall 1.23
+# phone: +1 234 567 890
 
 # profile links
 profile:
-  facebook: https://www.facebook.com/username
-  x: https://x.com/username
-  mastodon: https://mastodon.social/@username
-  bluesky: https://bsky.app/profile/username.bsky.social
-  instagram: https://www.instagram.com/username
-  linkedin: https://www.linkedin.com/in/username
-  xing: https://www.xing.com/profile/username
-  stackoverflow: https://stackoverflow.com/users/0000000/username
-  medium: https://medium.com/@username
-  github: https://github.com/username
-
+#  facebook: https://www.facebook.com/username
+  github: https://github.com/mtharruda
+  linkedin: https://www.linkedin.com/in/matharruda/
+  x: https://x.com/arrudamth
+#  mastodon: https://mastodon.social/@username
+#  bluesky: https://bsky.app/profile/username.bsky.social
+  instagram: https://www.instagram.com/arrudamth/
+ # xing: https://www.xing.com/profile/username
+ # stackoverflow: https://stackoverflow.com/users/0000000/username
+ # medium: https://medium.com/@username
+  
 # build settings
 permalink: pretty
 exclude:
