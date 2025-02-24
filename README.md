@@ -33,5 +33,3 @@ Automatização via Python, utilizando o Selenium, de buscas no sistema do Conse
 [Twitter](https://x.com/arrudamth)<br>
 
 Podemos transformar dados em histórias incríveis e impactantes! 
-
-*“I dream. Sometimes I think that's the only right thing to do.” ― MURAKAMI, Haruki* 
