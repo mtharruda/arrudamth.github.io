@@ -6,8 +6,13 @@ lead: Python, Selenium, Flourish
 *Reportagem publicada no **g1**, em dezembro de 2024.* 
 <br>
 Automatização via Python, utilizando o Selenium, de buscas no sistema do Conselho Nacional de Justiça por nome. Para análise, biblioteca Pandas, e gráficos produzidos no Flourish.
+<br>
 
-<for index, row in mandados_sorocaba.iterrows():
+
+<   
+
+    for index, row in mandados_sorocaba.iterrows():
+    
     processo = row['Número']
         
     #Primeiro, vamos passar nosso número de processo
@@ -31,7 +36,8 @@ Automatização via Python, utilizando o Selenium, de buscas no sistema do Conse
 
     nome = driver.find_element(By.XPATH, '/html/body/app-root/div/div/div[2]/div/app-resumo-peca/div/p-panel/div/div[2]/div[1]/div[4]/table/tbody/tr/td').text
     crime = driver.find_element(By.XPATH, '/html/body/app-root/div/div/div[2]/div/app-resumo-peca/div/p-panel/div/div[2]/div[1]/p-datatable/div/div[1]/table/tbody/tr/td/span').text
-#pena = driver.find_element(By.XPATH, '/html/body/app-root/div/div/div[2]/div/app-resumo-peca/div/p-panel/div/div[2]/div[1]/p[19]/span').text
+    
+    #pena = driver.find_element(By.XPATH, '/html/body/app-root/div/div/div[2]/div/app-resumo-peca/div/p-panel/div/div[2]/div[1]/p[19]/span').text
 
     print(nome, crime)
 
