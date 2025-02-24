@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Censo do IBGE: conheça as profissões que dão nome às ruas, avenidas e rodovias de Sorocaba
+title: Censo do IBGE: conheça as profissões que dão nome às ruas avenidas e rodovias de Sorocaba
 lead: Python, Flourish 
 ---
 *Reportagem publicada no **g1**, em junho de 2024.* 
