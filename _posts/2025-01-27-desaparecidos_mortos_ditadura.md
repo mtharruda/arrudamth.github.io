@@ -11,7 +11,7 @@ def selecionar_informacao(texto, prompt):
   model = genai.GenerativeModel("gemini-1.5-flash")
   response = model.generate_content(prompt)
   print(response.text) #model = GenerateText()
-  return response`>
+  return response>
   
 resultados = []
 for i, row in bd.iterrows():
