@@ -2,24 +2,4 @@
 layout: cv
 title: CV
 ---
-# Matheus Arruda
-Pós-graduando em Jornalismo de Dados pela PUC Minas e jornalista pela Escola Superior de Administração, Marketing e Comunicação (Esamc) de Sorocaba.
-
-## Experiência
-* Analista de dados @ g1 (nov.2024)<br>
-* Editor WEB @ g1 (set.2022 - nov.2024)<br>
-* Produtor @ TV TEM, Globo (jan.2020 - jun.2022)<br> 
-
-## Educação
-* Pós-graduado em Jornalismo de Dados @ PUC Minas
-* Bacharelado em Comunicação Social com habilitação em Jornalismo @ Esamc Sorocaba
-
-## Habilidades e Ferramentas
-* Análise exploratória de dados: Python (Pandas, Polars), SQL <br>
-* Visualização de Dados: (Matplotlib, Seaborn, Flourish, Google Looker Studio, MS Power BI) <br>
-* Edição de textos
-  
-### Cursos
-* Formação em Ciência de Dados, Alura
-* Dados 360, Escola de Dados
-* Introdução à Ciência de Dados, Globo 
+![image](https://github.com/user-attachments/assets/c38bcf6f-5975-4ea3-a35e-6446f1ecda93)
